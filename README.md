@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=neilq&hide=contribs,prs&show_icons=true&hide_title=true&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=neilq&hide=contribs,issues&show_icons=true&hide_title=true&include_all_commits=true" />
 
 > 🐑 .Net全栈工程师
 > 
