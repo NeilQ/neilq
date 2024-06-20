@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   - 🔭 工业设备工况智能诊断系统
 
 
-
+<!--
 ------------------
 
 [![DbToys](https://github-readme-stats.vercel.app/api/pin/?username=neilq&repo=DbToys)](https://github.com/NeilQ/DbToys)
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 [![admin](https://github-readme-stats.vercel.app/api/pin/?username=neilq&repo=Netcool.Admin)](https://github.com/NeilQ/Netcool.Admin)
 [![EventBus](https://github-readme-stats.vercel.app/api/pin/?username=neilq&repo=Netcool.EventBus)](https://github.com/NeilQ/Netcool.EventBus)
 
-
+-->
 
